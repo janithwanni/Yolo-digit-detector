@@ -32,7 +32,7 @@
     "valid_annot_folder": "tests/dataset/svhn/anns/",
     "valid_times": 1,
     "batch_size": 2,
-    "learning_rate": 1e-2,
+    "learning_rate": 1e-4,
     "saved_folder": "svhn",
     "jitter": false,
     "first_trainable_layer": "activation_49",
